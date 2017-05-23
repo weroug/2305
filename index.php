@@ -25,7 +25,7 @@ and open the template in the editor.
         </form>
         <?php } ?>
         
-        <a href="Formulario.php">Cambio de clave</a>
+        <a href="FormularioClave.php">Cambio de clave</a>
         
         <h1>Ejemplos de encriptación con el HASH MD5</h1>
         <?php 
